@@ -11,3 +11,5 @@ decreasing by delta with time.<br>
 • The main method should create and display an instance of Animate().<br>
 • The frame should be set to the size 400 by 400.<br>
 • Submit only one file called Animate.java.<br>
+
+![alt text](https://github.com/mervesrn/AnimateStar_GUIapp/blob/main/Ekran%20Resmi%202021-07-08%2012.53.14.png)
